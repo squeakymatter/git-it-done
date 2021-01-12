@@ -1,0 +1,10 @@
+{
+    "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": false,
+    "eslint.runtime": "",
+    "prettier.singleQuote": true,
+    "liveServer.settings.port": 5501
+
+}
